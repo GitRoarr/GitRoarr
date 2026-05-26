@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Girma Enkuchile
 
-🎓 **Software Engineering at Addis Ababa University**  
+🎓 **Software Engineer**  
 🚀 **Full-Stack Developer | ML & AI Enthusiast | Automated App & Agent Developer**
 
 💡 I’m passionate about **building intelligent applications**, creating **AI-powered solutions**, and exploring the endless possibilities of **machine learning**.
@@ -10,4 +10,4 @@
 ## 🌐 Connect With Me
 
 - 💼 Upwork: [Hire Me on Upwork](https://www.upwork.com/freelancers/~01ab8a80d58924b591)
-- 🐙 GitHub: https://github.com/girma
+- 🐙 GitHub: https://github.com/GitRoarr/GitRoarr
