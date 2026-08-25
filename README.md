@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Girma Enkuchile
+# 👋 Hi, I’m Firaol Ayana
 
 🎓 **Software Engineer**  
 🚀 **Full-Stack Developer | ML & AI Enthusiast | Automated App & Agent Developer**
@@ -9,5 +9,4 @@
 
 ## 🌐 Connect With Me
 
-- 💼 Upwork: [Hire Me on Upwork](https://www.upwork.com/freelancers/~01ab8a80d58924b591)
 - 🐙 GitHub: https://github.com/GitRoarr/GitRoarr
